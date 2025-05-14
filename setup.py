@@ -13,7 +13,6 @@ setup(
     include_package_data=True,  # 중요!
     classifiers=[
         'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: GNU License',
         'Intended Audience :: Science/Research',
     ],
     python_requires='>=3.6',
